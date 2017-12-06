@@ -1,1 +1,2 @@
-this is a test file content
+this is a test file content 
+new line
